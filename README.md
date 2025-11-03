@@ -9,15 +9,6 @@ A custom Lovelace card that displays one item from a Todo list at a time, lettin
 3. Category: **Dashboard**
 4. Click **Add**, then search for **Step Todo Card** and install.
 
-## Manual Installation
-
-Copy `step-todo-card.js` to your `config/www` folder, then add this resource:
-
-```yaml
-url: /local/step-todo-card.js
-type: module
-```
-
 ## Example Lovelace Config
 
 ```yaml
