@@ -6,7 +6,7 @@ A custom Lovelace card that displays one item from a Todo list at a time, lettin
 
 1. Go to **HACS → Frontend → Custom repositories → Add repository**
 2. URL: `https://github.com/taysuus/step-todo-card`
-3. Category: **Lovelace**
+3. Category: **Dashboard**
 4. Click **Add**, then search for **Step Todo Card** and install.
 
 ## Manual Installation
