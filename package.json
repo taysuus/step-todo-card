@@ -2,7 +2,7 @@
   "name": "step-todo-card",
   "version": "1.0.0",
   "scripts": {
-    "build": "esbuild src/step-todo-card.js --bundle --minify --format=esm --outfile=www/step-todo-card/step-todo-card.js"
+    "build": "esbuild src/step-todo-card.js --bundle --minify --format=esm --outfile=dist/step-todo-card.js"
   },
   "devDependencies": {
     "esbuild": "^0.24.0",

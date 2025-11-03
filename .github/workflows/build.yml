@@ -27,6 +27,6 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            www/step-todo-card/step-todo-card.js
+            dist/step-todo-card.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
